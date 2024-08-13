@@ -1,0 +1,11 @@
+absl-py==2.1.0
+gymnasium-robotics==1.2.4
+imageio==2.34.0
+imageio-ffmpeg==0.4.9
+minari==0.4.3
+-e git+https://github.com/microsoft/MoCapAct.git@8f01663a0da1c5f1fa941417ba4f3ce71c987b18#egg=mocapact
+moviepy==1.0.3
+numpy==1.26.4
+torch==2.2.1
+tqdm==4.66.2
+wandb==0.16.3
