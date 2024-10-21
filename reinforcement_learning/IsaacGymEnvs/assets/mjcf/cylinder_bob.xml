@@ -1,0 +1,12 @@
+<mujoco model="cylinder">
+ 
+  <worldbody>
+
+    <body name="cylinder" pos="0 0 0">
+      <freejoint/>
+      <geom name="cylinder" type="cylinder" size=".1" rgba="0.5 0.5 0.5 1" fromto="-0.2 0 0.1 0.2 0 0.1"/>
+    </body>
+
+  </worldbody>
+
+</mujoco>

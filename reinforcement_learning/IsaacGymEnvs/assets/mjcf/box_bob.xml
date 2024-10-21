@@ -1,0 +1,12 @@
+<mujoco model="box">
+ 
+  <worldbody>
+
+    <body name="box" pos="0 0 0">
+      <freejoint/>
+      <geom name="box" type="box" size="0.2 0.3 0.025" rgba="0.5 0.5 0.5 1" pos="0 0 0.225"/>
+    </body>
+
+  </worldbody>
+
+</mujoco>
