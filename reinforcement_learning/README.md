@@ -1,5 +1,7 @@
 # Reinforcement Learning Instructions
 
+This code is based off the [rl_games](https://github.com/Denys88/rl_games) and [IsaacGymEnvs](https://github.com/isaac-sim/IsaacGymEnvs) codebases.
+
 ## Install the simulation environment
 
 Install IsaacGym by following the instructions in the [official page](https://developer.nvidia.com/isaac-gym).
